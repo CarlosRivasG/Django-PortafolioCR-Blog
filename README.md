@@ -1,4 +1,4 @@
 # Django-PortafolioCR-Blog
 
 
-Portafolio personal.
+ personal.
